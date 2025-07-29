@@ -1,0 +1,3 @@
+exam task №2 - https://github.com/HalyshAnton/ITStep-AI/blob/exam/%D0%95%D0%BA%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD.ipynb
+pinecone - https://app.pinecone.io/organizations/-OQKB9RlUtEZ0h0-zTgE/projects/c2048641-dd1c-4a4e-b81f-e1fa681e9780/indexes/exam-itstep/browser
+supabase - https://supabase.com/dashboard/project/wzboadqmjqenolfvvedi/editor/17555?schema=public
